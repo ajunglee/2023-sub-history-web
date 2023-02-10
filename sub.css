@@ -135,4 +135,5 @@ footer{ width: 100%;height: 100px;background: #000;text-align: center;color: #a8
     section>.contents>.hist_contents>.gallery>li{width: 166px;margin:0;margin-bottom: 10px;}
     section>.contents>.hist_contents>.gallery>li:nth-child(2n){margin-left: 10px;}
     section>.contents>.hist_contents>.gallery>li>.gallery_img{height: 166px;} section>.contents>.hist_contents>.gallery>li>.gallery_cont>.g_tit{font-size: 15px;} section>.contents>.hist_contents>.gallery>li>.gallery_cont>.g_sub{display: none;}
+    section>.contents>.hist_contents>.gallery>li>.gallery_img::before{width: 164px;height: 166px;background-position: center;}
 }
